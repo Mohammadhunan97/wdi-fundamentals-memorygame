@@ -1,3 +1,29 @@
 /* This is a multi-line
 comment. Add your CSS code
 from Unit 1 - 5 below  */
+h1{
+  color:teal;
+}
+h2{
+  color:yellow;
+}
+
+.board{
+  height:80%;
+  width:50%;
+  display:inline-block;
+}
+.card{
+  border: 1px solid black;
+  width: 150px;
+  height:200px;
+  background: yellow;
+  border-radius:10px;
+}
+
+
+
+
+
+
+
